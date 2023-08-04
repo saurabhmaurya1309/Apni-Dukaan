@@ -187,7 +187,7 @@ git push -u origin <your_branch_name>
 <p align="center">
 <a href="https://www.linkedin.com/in/qazi-maaz-arshad/">
 <img width=50% src="https://i.postimg.cc/qBmW9QyM/profile.gif"></p>
-<h5 align="center"><b>Qazi Maaz Arshad</b></a>
+<h5 align="center"><b>Saurabh Maurya</b></a>
 
 ## Open Source Programs we have been associated with
   
