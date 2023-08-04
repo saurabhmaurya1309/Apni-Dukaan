@@ -9,13 +9,13 @@ Shopping with your best friends can be a fun experience! You get to spend some q
 But shopping with friends too can be a nightmare! Especially if your friends insist on taking a long walk in crowded bazaars, with stacks of cash, and heavy shopping bags.
 <p align="center"><img src="https://media1.tenor.com/images/c5ddf9fb5699cd1f4d9d7268adb11f99/tenor.gif" width = 65%></p>
 
-Now say goodbye to those tensions because [24hoursshop](https://qazimaazarshad.github.io/Apni-Dukaan/) is here.
+Now say goodbye to those tensions because [24hoursshop](https://saurabhmaurya1309.github.io/Apni-Dukaan/) is here.
 <p align="center"><img src="https://media.tenor.com/images/9ab245324a95fdb46ba5a06f8e20143e/tenor.gif" width = 50%></p>
 
-Everything you are looking for is just a click away at [24hoursshop](https://qazimaazarshad.github.io/Apni-Dukaan/). Stop wandering around packed malls to compare prices, as you can grab a bargain at [24hoursshop](https://qazimaazarshad.github.io/Apni-Dukaan/) where everything is cheaper than the market, and your purchases will be at your doorsteps without much wait.
+Everything you are looking for is just a click away at [24hoursshop](https://saurabhmaurya1309.github.io/Apni-Dukaan/). Stop wandering around packed malls to compare prices, as you can grab a bargain at [24hoursshop](https://saurabhmaurya1309.github.io/Apni-Dukaan/) where everything is cheaper than the market, and your purchases will be at your doorsteps without much wait.
 <p align="center"><img src="https://media.tenor.com/images/4f49a0b0e1f4dc01b809a9886bdcc372/tenor.gif" width = 55%></p>
 
-Take a chill pill because [24hoursshop](https://qazimaazarshad.github.io/Apni-Dukaan/) is here to save you from headaches of traditional shopping.
+Take a chill pill because [24hoursshop](https://saurabhmaurya1309.github.io/Apni-Dukaan/) is here to save you from headaches of traditional shopping.
 <p align="center"><img src="https://media1.tenor.com/images/84870528cb9933ad568d5a042a0cd03f/tenor.gif" width = 60%></p>
 
 ## A sneak peek into what we have here🙈 :
@@ -110,9 +110,9 @@ To start contributing, follow the below guidelines:
 
 **🌟.**  Star🌟 the repository to appreciate the work.
 
-**0.**  Take a look at the existing [issues](https://github.com/QAZIMAAZARSHAD/Apni-Dukaan/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
+**0.**  Take a look at the existing [issues](https://github.com/saurabhmaurya1309/Apni-Dukaan/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-**1.**  Fork [this](https://github.com/QAZIMAAZARSHAD/Apni-Dukaan) repository.
+**1.**  Fork [this](https://github.com/saurabhmaurya1309/Apni-Dukaan) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -129,7 +129,7 @@ cd Apni-Dukaan
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/QAZIMAAZARSHAD/Apni-Dukaan.git 
+git remote add upstream https://github.com/saurabhmaurya1309/Apni-Dukaan.git 
 ```
 
 **5.** Check the remotes for this repository.
@@ -197,13 +197,13 @@ git push -u origin <your_branch_name>
 
 ## Code of Conduct
 <p align="center">
-<a href="https://github.com/QAZIMAAZARSHAD/Apni-Dukaan/blob/master/CODE_OF_CONDUCT.md">
+<a href="https://github.com/saurabhmaurya1309/Apni-Dukaan/blob/master/CODE_OF_CONDUCT.md">
 <img width=60% src="https://cdn-media-1.freecodecamp.org/images/1*v4jyaugHQXBSf2O4D66Onw.gif"></p>
 <h5 align="center"><b>Click to read</b></a>
   
 ## License
 <p align="center">
-<a href="https://github.com/QAZIMAAZARSHAD/Apni-Dukaan/blob/master/LICENSE">
+<a href="https://github.com/saurabhmaurya1309/Apni-Dukaan/blob/master/LICENSE">
 <img width=65% src="https://media0.giphy.com/media/3ornjXbo3cjqh2BIyY/200.gif"></p>
 <h5 align="center"><b>MIT License</b></a>  
   
