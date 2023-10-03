@@ -201,9 +201,5 @@ git push -u origin <your_branch_name>
 <img width=60% src="https://cdn-media-1.freecodecamp.org/images/1*v4jyaugHQXBSf2O4D66Onw.gif"></p>
 <h5 align="center"><b>Click to read</b></a>
   
-## License
-<p align="center">
-<a href="https://github.com/saurabhmaurya1309/Apni-Dukaan/blob/master/LICENSE">
-<img width=65% src="https://media0.giphy.com/media/3ornjXbo3cjqh2BIyY/200.gif"></p>
-<h5 align="center"><b>MIT License</b></a>  
+
   
